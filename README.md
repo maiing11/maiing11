@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Maiing master in procastinating & Ganteng #
+# 👋 master in procastinating & Ganteng #
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
