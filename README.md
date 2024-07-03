@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @maiing11
-- 👀 I’m interested in Backend Dev
-- 🌱 I’m currently learning Golang
+- 👋 Hi, I’m Maiing orang Ganteng & Tidak selegence
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
